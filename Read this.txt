@@ -1,0 +1,10 @@
+The game result saved after refusing play again request, so if you want to see the room result
+you have to refuse play again request and end the room.
+The game saved at Debug folder at the same folder that the program begin.
+
+We are G8:
+	1- Asmaa Elashkar
+	2- Mohamed Moustafa
+	3- Michael
+	4- Nada Basiouny
+	5- Rowan Mahmoud
